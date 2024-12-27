@@ -1,13 +1,13 @@
-# 👋 Hello World, I'm [Ton Nom]!
+# 👋 Hello World, I'm GNANDAL ELISEE!
 
 ## 🌟 About Me
 I'm a passionate developer who loves creating innovative solutions and making the world a better place one line of code at a time. Whether it's building web apps, diving into machine learning, or contributing to open source, I'm always eager to learn and share my knowledge.
 
 - 🌱 Currently exploring the depths of [technologies you're learning].
-- 🔭 Working on [your current project].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 Reach me at [your email].
-- ⚡ Fun fact: [a fun fact about you].
+- 🔭 Working on React Project.
+- 💬 Ask me about Frontend & Backend Development.
+- 📫 Reach me at egnandal500^gmail.com.
+- ⚡ Fun fact: .
 
 ## 🚀 Projects
 Here are a few highlights of my work:
